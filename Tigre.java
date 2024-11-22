@@ -1,8 +1,5 @@
-package Pol;
+package T;
 
-public class Tigre extends Animal {
+public class Tigre {
 
-	public void comer() {
-		System.out.println("Tigre comendo...");
-	}
 }
